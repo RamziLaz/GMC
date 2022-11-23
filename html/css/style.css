@@ -1,0 +1,25 @@
+header{
+    text-align: center;
+}
+.navlist{
+    display: inline;
+
+}
+*{
+    font-family: 'Roboto', sans-serif;
+
+}
+.hero div{
+    text-align: center;
+}
+footer{
+    background-color: bisque;
+    text-align: center;
+}
+.hero div button{
+    padding: 12px;
+    margin: 10px;
+}
+.section2{
+    margin-top: 10%;
+}
